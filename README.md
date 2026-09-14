@@ -5,8 +5,8 @@ Git aliases and config managed as code.
 ## Install
 
 ```bash
-git clone https://github.com/nickdemianchuk/git-ops.git ~/git-ops
-cd ~/git-ops
+git clone https://github.com/nickdemianchuk/git-ops.git
+cd git-ops
 ./install.sh
 ```
 
@@ -55,7 +55,7 @@ This adds one `[include]` line to your `~/.gitconfig` pointing at `git/aliases.g
 ## Update
 
 ```bash
-cd ~/git-ops && git pull
+cd git-ops && git pull
 ```
 
 No re-running `install.sh` needed — the `[include]` path is already live.
