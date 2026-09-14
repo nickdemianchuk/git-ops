@@ -1,0 +1,57 @@
+[alias]
+    # status / staging
+    s   = status
+    a   = add
+    aa  = add -A
+
+    # commit
+    c   = commit
+    cm  = commit -m
+    ca  = commit --amend
+    can = commit --amend --no-edit
+
+    # branch
+    b   = branch
+    bd  = branch -d
+    bD  = branch -D
+
+    # checkout / switch
+    ch  = checkout
+    chb = checkout -b
+    sw  = switch
+    swb = switch -c
+
+    # push / pull
+    p   = push
+    pf  = push --force-with-lease
+    pu  = push -u origin HEAD
+    pl  = pull
+    plr = pull --rebase
+
+    # log
+    l   = log --oneline
+    lg  = log --oneline --graph --decorate
+    ll  = log --oneline -10
+
+    # diff
+    d   = diff
+    ds  = diff --staged
+
+    # stash
+    st  = stash
+    stp = stash pop
+    stl = stash list
+
+    # rebase
+    rb  = rebase
+    rbi = rebase -i
+    rbo = rebase origin/main
+
+    # reset
+    rs  = reset
+    rsh = reset --hard
+    rss = reset --soft HEAD~1
+
+    # fetch
+    f   = fetch
+    fo  = fetch origin
