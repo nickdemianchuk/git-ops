@@ -11,6 +11,6 @@ jobs:
       contents: write
       issues: write
       pull-requests: write
-    uses: nickdemianchuk/actions/.github/workflows/release.yml@main
+    uses: nickdemianchuk/actions/.github/workflows/release.yml@0.4.0
     secrets:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
