@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/nickdemianchuk/git-ops/compare/0.2.0...0.3.0) (2026-09-14)
+
+
+### Features
+
+* add new alias for checkout main + pull ([#7](https://github.com/nickdemianchuk/git-ops/issues/7)) ([92a3ae0](https://github.com/nickdemianchuk/git-ops/commit/92a3ae05d63ed2502814e160dad91a9e1ef1ae18))
+
 # [0.2.0](https://github.com/nickdemianchuk/git-ops/compare/0.1.0...0.2.0) (2026-09-14)
 
 
