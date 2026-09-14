@@ -30,6 +30,7 @@ This adds one `[include]` line to your `~/.gitconfig` pointing at `git/aliases.g
 | `chb` | `checkout -b` |
 | `sw` | `switch` |
 | `swb` | `switch -c` |
+| `chm` | checkout repo's default branch |
 | `p` | `push` |
 | `pf` | `push --force-with-lease` |
 | `pu` | `push -u origin HEAD` |
