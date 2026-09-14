@@ -1,3 +1,10 @@
+# [0.2.0](https://github.com/nickdemianchuk/git-ops/compare/0.1.0...0.2.0) (2026-09-14)
+
+
+### Features
+
+* add bda alias to delete all branches but current ([#6](https://github.com/nickdemianchuk/git-ops/issues/6)) ([4ea3785](https://github.com/nickdemianchuk/git-ops/commit/4ea3785f7f3be783ee21f6808b7d7a77e6db20ef))
+
 # [0.1.0](https://github.com/nickdemianchuk/git-ops/compare/0.0.1...0.1.0) (2026-09-14)
 
 
