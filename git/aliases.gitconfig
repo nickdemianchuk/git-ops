@@ -20,6 +20,7 @@
     chb = checkout -b
     sw  = switch
     swb = switch -c
+    chm = "!git checkout $(git symbolic-ref refs/remotes/origin/HEAD | sed 's@^refs/remotes/origin/@@')"
 
     # push / pull
     p   = push
