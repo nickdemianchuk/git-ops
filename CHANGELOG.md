@@ -1,3 +1,10 @@
+## [0.3.2](https://github.com/nickdemianchuk/git-ops/compare/0.3.1...0.3.2) (2026-09-14)
+
+
+### Reverts
+
+* Revert "fix: ignore all tags on push events in CD workflow ([#8](https://github.com/nickdemianchuk/git-ops/issues/8))" ([#9](https://github.com/nickdemianchuk/git-ops/issues/9)) ([6e35653](https://github.com/nickdemianchuk/git-ops/commit/6e3565384e683bd36ded230f64833505b29191eb))
+
 ## [0.3.1](https://github.com/nickdemianchuk/git-ops/compare/0.3.0...0.3.1) (2026-09-14)
 
 
