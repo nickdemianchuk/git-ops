@@ -1,3 +1,11 @@
+## [0.3.3](https://github.com/nickdemianchuk/git-ops/compare/0.3.2...0.3.3) (2026-09-14)
+
+
+### Bug Fixes
+
+* quote job if expression to fix yaml parse error ([#12](https://github.com/nickdemianchuk/git-ops/issues/12)) ([0b42e22](https://github.com/nickdemianchuk/git-ops/commit/0b42e22552fefcb6c56c080240e49c9efb575d38))
+* skip cd release on chore release commits ([#10](https://github.com/nickdemianchuk/git-ops/issues/10)) ([ec9e77f](https://github.com/nickdemianchuk/git-ops/commit/ec9e77fc2ab978423e13ce19e6b720e41f75c0d8))
+
 ## [0.3.2](https://github.com/nickdemianchuk/git-ops/compare/0.3.1...0.3.2) (2026-09-14)
 
 
