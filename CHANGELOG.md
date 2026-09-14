@@ -1,3 +1,10 @@
+## [0.3.4](https://github.com/nickdemianchuk/git-ops/compare/0.3.3...0.3.4) (2026-09-14)
+
+
+### Bug Fixes
+
+* update GitHub Actions secrets in cd.yml ([#13](https://github.com/nickdemianchuk/git-ops/issues/13)) ([8357119](https://github.com/nickdemianchuk/git-ops/commit/8357119b0803d5a8ce1255b8bc1d5a6566d22088))
+
 ## [0.3.3](https://github.com/nickdemianchuk/git-ops/compare/0.3.2...0.3.3) (2026-09-14)
 
 
