@@ -26,6 +26,7 @@ This adds one `[include]` line to your `~/.gitconfig` pointing at `git/aliases.g
 | `b` | `branch` |
 | `bd` | `branch -d` |
 | `bD` | `branch -D` |
+| `bda` | delete all local branches except current |
 | `ch` | `checkout` |
 | `chb` | `checkout -b` |
 | `sw` | `switch` |

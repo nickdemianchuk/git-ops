@@ -14,6 +14,7 @@
     b   = branch
     bd  = branch -d
     bD  = branch -D
+    bda = "!git branch | grep -v '^\\*' | xargs -r git branch -D"
 
     # checkout / switch
     ch  = checkout
