@@ -1,3 +1,10 @@
+## [0.3.1](https://github.com/nickdemianchuk/git-ops/compare/0.3.0...0.3.1) (2026-09-14)
+
+
+### Bug Fixes
+
+* ignore all tags on push events in CD workflow ([#8](https://github.com/nickdemianchuk/git-ops/issues/8)) ([7f51889](https://github.com/nickdemianchuk/git-ops/commit/7f5188993a5db2896cbd0724e09bb5e36b450411))
+
 # [0.3.0](https://github.com/nickdemianchuk/git-ops/compare/0.2.0...0.3.0) (2026-09-14)
 
 
