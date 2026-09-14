@@ -8,8 +8,8 @@ on:
 jobs:
   lint-pr:
     if: github.event_name == 'pull_request'
-    uses: nickdemianchuk/actions/.github/workflows/lint-pr.yml@0.3.3
+    uses: nickdemianchuk/actions/.github/workflows/lint-pr.yml@main
 
   lint-commits:
     if: github.event_name == 'push' && github.ref != 'refs/heads/main'
-    uses: nickdemianchuk/actions/.github/workflows/lint-commits.yml@0.3.3
+    uses: nickdemianchuk/actions/.github/workflows/lint-commits.yml@main
