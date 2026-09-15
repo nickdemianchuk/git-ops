@@ -1,3 +1,10 @@
+# [0.4.0](https://github.com/nickdemianchuk/git-ops/compare/0.3.4...0.4.0) (2026-09-15)
+
+
+### Features
+
+* add uninstall script ([#15](https://github.com/nickdemianchuk/git-ops/issues/15)) ([378badf](https://github.com/nickdemianchuk/git-ops/commit/378badfa9bd49547c51811d5fc2ab408e33fc8e9))
+
 ## [0.3.4](https://github.com/nickdemianchuk/git-ops/compare/0.3.3...0.3.4) (2026-09-14)
 
 
