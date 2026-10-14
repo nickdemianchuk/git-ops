@@ -1,3 +1,10 @@
+## [0.4.1](https://github.com/nickdemianchuk/git-ops/compare/0.4.0...0.4.1) (2026-10-14)
+
+
+### Bug Fixes
+
+* drop release caller permissions ([#16](https://github.com/nickdemianchuk/git-ops/issues/16)) ([be05aae](https://github.com/nickdemianchuk/git-ops/commit/be05aaed24a4629c572a00f977ef9bc54d041a34))
+
 # [0.4.0](https://github.com/nickdemianchuk/git-ops/compare/0.3.4...0.4.0) (2026-09-15)
 
 
